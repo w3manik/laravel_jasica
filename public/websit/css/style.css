@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul,ol{
+    list-style-type: none;
+}
+
+.dels_sml_item img{
+    margin: 8px 6px;
+}
+
